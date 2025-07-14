@@ -1,4 +1,4 @@
-# ⛹️ Gabriel Julio
+# 🧑🏽‍💻 Gabriel Julio
 
 **`Desenvolvedor Full Stack`**
 
