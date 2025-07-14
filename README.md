@@ -34,7 +34,6 @@ Minha trajetória inclui curso técnico, estágio como Desenvolvedor Frontend, a
 
 ### 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabsJJ&show_icons=true&theme=dark&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsJJ&layout=compact&theme=dark)
 
 ---
